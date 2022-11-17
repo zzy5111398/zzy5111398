@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ziyan Zhu
+- 👀 I’m interested in Financial System
+- 🌱 I’m currently learning Stock-Flow Consistent model
+- 💞️ I’m looking to collaborate on Agent-based modelling
+- 📫 How to reach me: zzy5111398@live.com
+- 
